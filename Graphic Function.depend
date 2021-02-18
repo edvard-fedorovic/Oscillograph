@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613645672 source:c:\users\edvard\desktop\university\graphic function\main.c
+	<windows.h>
+	<gl/gl.h>
+
